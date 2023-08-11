@@ -3,12 +3,9 @@ Recipely app is perfectly designed for people who want to use their time efficie
 This is because the swipe function immediately gives the user the option to decide and save it permanently. 
 For example, if a person has just 5 minutes to be active on the app, the person has the chance to take a closer look at the recipe later by favoriting the respective recipes with just a right swipe.
 
-<img src="https://github.com/tammam9/My-Github-Portfolio/assets/142019629/7b81ccc6-964d-41f6-bf9d-14af3cdd4a8f.png" width="200"/>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/49038239/234120268-5b3b4a34-4b9d-4c5c-a6c8-e42fe423f9d9.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/49038239/234121088-5a58a66e-c0a9-44f1-839c-2942e109a746.png" width="200"/>
-<img src="https://user-images.githubusercontent.com/49038239/234120607-21d02eb3-45b3-4fbd-a0a3-2de7c0bfb82e.png" width="200"/>
+<img width="1114" alt="card1" src="https://github.com/tammam9/My-Github-Portfolio/assets/142019629/f1f6aba0-8c54-4b00-aa98-1b04c6c08acb.png" width="200"/>
 </p>
 
 **Tech Used**
