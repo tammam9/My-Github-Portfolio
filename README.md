@@ -5,7 +5,7 @@ For example, if a person has just 5 minutes to be active on the app, the person 
 
 
 <p align="center">
-<img width="1114" alt="card1" src="https://github.com/tammam9/My-Github-Portfolio/assets/142019629/f1f6aba0-8c54-4b00-aa98-1b04c6c08acb.png" width="100"/>
+<img width="1114" alt="card1" src="https://github.com/tammam9/My-Github-Portfolio/assets/142019629/f1f6aba0-8c54-4b00-aa98-1b04c6c08acb.png" width="50"/>
 </p>
 
 **Tech Used**
