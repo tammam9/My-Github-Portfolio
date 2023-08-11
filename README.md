@@ -5,13 +5,13 @@ For example, if a person has just 5 minutes to be active on the app, the person 
 
 
 <p align="center">
-<img width="1114" alt="card1" src="https://github.com/tammam9/My-Github-Portfolio/assets/142019629/f1f6aba0-8c54-4b00-aa98-1b04c6c08acb.png" width="200"/>
+<img width="1114" alt="card1" src="https://github.com/tammam9/My-Github-Portfolio/assets/142019629/f1f6aba0-8c54-4b00-aa98-1b04c6c08acb.png" width="100"/>
 </p>
 
 **Tech Used**
-- 🎨 SwiftUI
-- 💿 Realm
-- 📦 Swift Package Manager
+- 🎨 HTML
+- 🎨 CSS
+- 💿 Javascript
 
 ## [TravSearch App](https://github.com/zulfiye43/TravSearch)
 TravSearch is an efficient and time-saving way to research a nice place for the planned trip. Moreover, the app should relieve users from the long research through various travel websites or blogs. Users also have the option to filter the search and save the post.
